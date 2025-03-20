@@ -8,16 +8,13 @@ aftermath of the Voice referendum, providing a rich context for analyzing trends
 communication. To further analysis, this proejct aim to investigate the relationship between
 attributes and impressions.</p>
 
-## Dataset description
+## How to Run the Project
 The dataset under study comprises sponsored political ads from the Facebook Ad Library
 API. This dataset covers a period from October 1, 2023, to March 21, 2024. The data is
 structured in JSON format and contains detailed records of ad campaigns. The dataset
-consists of 17475418 rows and 26 columns with diUerent types. These columns reflecting
+consists of 17475418 rows and 26 columns with diferrent types. These columns reflecting
 various aspects of the ad campaigns, including content creation details (ad_creation_time),
 creative details, campaign delivery metrics, and demographic targeting.
-
-## How to Run the Project
-
 
 ### Prerequisites
 #### **1. Required Software**
